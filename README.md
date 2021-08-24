@@ -6,9 +6,6 @@
  <p align="center">The Ultimate Readme to use for your GitHub projects!</p>
 </p>
   <p align="center">
-    <a href="https://github.com/jotcodeofficial/ultimate-readme/issues">
-      <img alt="Tests Passing" src="hhttps://img.shields.io/github/issues/jotcodeofficial/ultimate-readme" />
-    </a>
     <a href="https://github.com/jotcodeofficial/ultimate-readme/network/members">
       <img src="https://img.shields.io/github/forks/jotcodeofficial/ultimate-readme" />
     </a>
@@ -23,9 +20,10 @@
     <a href="https://blog.jotcode.com">
       <img src="https://img.shields.io/badge/Blog-Jotcode%20%E2%86%92-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge"/>
     </a>
-    <a href="https;//jotcode.com">
-      <img src="https://img.shields.io/badge/Website-Jotcode%20%E2%86%92-gray.svg?colorA=61c265&colorB=4CAF50&style=for-the-badge"/>
+    <a href="https://img.shields.io/twitter/follow/jotc0de?style=social">
+      <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/jotc0de?style=social">
     </a>
+    
   </p>
 
   <p align="center">
@@ -182,7 +180,7 @@ Released under the MIT License.
 contact@jotcode.com
 
 
-## :sparkling_heart: Support the Project
+## Support the Project :sparkling_heart:
 
 If you are not a coder you can still help support the project by sharing it far and wide.
 Thanks! :heart:
@@ -193,6 +191,7 @@ Thanks! :heart:
 I would like to acknowledge the following projects for inspiration:
 
 https://github.com/othneildrew/Best-README-Template
+
 https://github.com/anuraghazra/github-readme-stats
 
 
