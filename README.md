@@ -13,7 +13,7 @@
       <img alt="Issues" src="https://img.shields.io/github/stars/jotcodeofficial/ultimate-readme" />
     </a>
     <a href="https://twitter.com/intent/follow?screen_name=jotc0de">
-      <img alt="Twitter" src="https://img.shields.io/twitter/url?style=social" />
+      <img alt="Twitter" src="https://img.shields.io/twitter/follow/jotc0de?style=social" />
     </a>
     <br />
     <br />
