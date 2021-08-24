@@ -90,6 +90,7 @@ You can add a README file to a repository to communicate important information a
 Give your project the best chance possible by forking this repo right now! :smile:
 
 README files typically include information on:
+
 * What the project does
 * Why the project is useful
 * How users can get started with the project
