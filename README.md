@@ -20,6 +20,9 @@
     <a href="https://blog.jotcode.com">
       <img src="https://img.shields.io/badge/Blog-Jotcode%20%E2%86%92-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge"/>
     </a>
+    <a href="https;//jotcode.com">
+      <img src="https://img.shields.io/badge/Website-Jotcode%20%E2%86%92-gray.svg?colorA=61c265&colorB=4CAF50&style=for-the-badge"/>
+    </a>
     
   </p>
 
