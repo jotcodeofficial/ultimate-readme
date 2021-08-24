@@ -71,13 +71,12 @@
   </ol>
 </details>
 
----
 
 ## About The Project
 
 <p align="center">
     <a href="https://github.com/jotcodeofficial/ultimate-readme">
-        <img width="100px" src="images/project.png" align="center" alt="The Ultimate Readme Project Image" />
+        <img width="400px" src="images/project.png" align="center" alt="The Ultimate Readme Project Image" />
     </a>
  <h2 align="center">The Ultimate Readme</h2>
  <p align="center">The Ultimate Readme for your GitHub projects!</p>
@@ -97,6 +96,8 @@ README files typically include information on:
 * Where users can get help with your project
 * Who maintains and contributes to the project
 
+---
+
 ### Built With
 
 In this area you can list the different libraries and technologies that your project uses.
@@ -104,7 +105,6 @@ In this area you can list the different libraries and technologies that your pro
 * [Angular](https://angular.io/)
 * [Golang](https://golang.org/)
 
----
 
 ## Getting Started
 
@@ -135,20 +135,17 @@ Here you can provide the steps required to install your project on the users mac
    npm build
    ```
    
----
 
 ## Usage
 
 In this section you can provide examples of how the user would use your project to achieve the different desired results they may want.
 
----
 
 ## Documentation
 
 In this section you can provide the link to where you host your documentation or wiki.
 [Documentation](https://docs.example.com)
 
----
 
 ## Roadmap
 
@@ -166,33 +163,29 @@ This will detail the second stage of your roadmap.
 
 This will detail the third stage of your roadmap.
 
----
 
-## :sparkling_heart: Contributing
+## Contributing
 
 Great things are a sum of their parts. By contributing your time and effort you can help make this project even better. Collaborative efforts ftw.
 
----
 
 ## License
 
 Here is where you can provide the license you are using.
 Released under the MIT License.
 
----
 
 ## Contact
 
-Jotcode - [@jotc0de](https://twitter.com/jotc0de) - contact@jotcode.com
+[@jotc0de](https://twitter.com/jotc0de)
+contact@jotcode.com
 
----
 
 ## :sparkling_heart: Support the Project
 
 If you are not a coder you can still help support the project by sharing it far and wide.
 Thanks! :heart:
 
----
 
 ## Acknowledgements
 
