@@ -12,16 +12,13 @@
     <a href="https://github.com/jotcodeofficial/ultimate-readme/stargazers">
       <img alt="Issues" src="https://img.shields.io/github/stars/jotcodeofficial/ultimate-readme" />
     </a>
-    <a href="https://twitter.com/jotc0de">
-      <img alt="GitHub pull requests" src="https://img.shields.io/twitter/url?style=social" />
+    <a href="https://twitter.com/intent/follow?screen_name=jotc0de">
+      <img alt="Twitter" src="https://img.shields.io/twitter/url?style=social" />
     </a>
     <br />
     <br />
     <a href="https://blog.jotcode.com">
       <img src="https://img.shields.io/badge/Blog-Jotcode%20%E2%86%92-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge"/>
-    </a>
-    <a href="https://img.shields.io/twitter/follow/jotc0de?style=social">
-      <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/jotc0de?style=social">
     </a>
     
   </p>
