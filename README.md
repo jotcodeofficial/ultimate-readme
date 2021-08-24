@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://github.com/jotcodeofficial/ultimate-readme">
-        <img width="100px" src="images/logo.svg" align="center" alt="The Ultimate Readme Logo" />
+        <img width="100px" src="images/logo.png" align="center" alt="The Ultimate Readme Logo" />
     </a>
  <h2 align="center">The Ultimate Readme</h2>
  <p align="center">The Ultimate Readme to use for your GitHub projects!</p>
@@ -66,7 +66,7 @@
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#contact">Support the Project</a></li>
+    <li><a href="#support">Support the Project</a></li>
     <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
 </details>
@@ -178,6 +178,7 @@ Released under the MIT License.
 ## Contact
 
 [@jotc0de](https://twitter.com/jotc0de)
+
 contact@jotcode.com
 
 
