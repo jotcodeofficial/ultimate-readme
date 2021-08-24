@@ -35,7 +35,7 @@
 # Index
 
 <!-- TABLE OF CONTENTS -->
-<details open="closed">
+<details closed="closed">
   <summary>Table of Contents</summary>
   <ol>
     <li>
